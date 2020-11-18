@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript">
+		function WriteToFile() {
+
+			set fso = CreateObject("Scripting.FileSystemObject");  
+			set s = fso.CreateTextFile("test.txt", True);
+			s.writeline("HI");
+			s.writeline("Bye");
+			s.writeline("-----------------------------");
+			s.Close();
+		}
+
+		WriteToFile();
+	</script>
+</head>
+<body>
+
+</body>
+</html>

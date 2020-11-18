@@ -1,0 +1,82 @@
+.danger a {
+	color: #FFF !important;
+	text-shadow: #000 1px 1px;
+}
+.fixed {
+	position: fixed;
+	top: 0;
+	z-index: 2;
+	width: 100%;
+}
+.container {
+	margin-top: 90px;
+}
+.modal{
+	background: #000000d1;
+}
+.modal-dialog {
+	max-width: 542px !important;
+}
+.modal-body{
+	max-height: 75vh !important;
+}
+.tab-pane {
+	overflow-y: auto;
+	max-height: 57vh;
+	overflow-x: hidden;
+}
+.pointer{
+    cursor: pointer;
+}
+.table-down{
+    color: #ca23bf;
+    margin-left: 5px;
+}
+.table-up{
+    color: #0af7bb;
+}
+.flechas {
+    font-size: 16px;
+    min-width: 70px;
+}
+#optionEditable {
+    min-width: 111px;
+}
+.card-body {
+    padding: 0px !important;
+}
+#nameProyect {
+    margin-left: 18px;
+    float: right;
+}
+#table table {
+    word-wrap: anywhere;
+}
+#deleteColumnOption {
+    min-width: 82px;
+}
+.importF{
+    width: 269px;
+    float: right;
+    margin-top: -55px;
+}
+.card-header.text-center.font-weight-bold.text-uppercase.py-4 {
+    position: fixed;
+    display: flex;
+    background-color: #f7f7f7;
+    margin-top: -1px;
+    min-width: 460px;
+    max-width: 506px;
+    width: 80%;
+}
+.addOptionInput {
+    right: 15px !important;
+    position: absolute;
+}
+.card-body {
+    padding: 0px !important;
+    margin-top: 89px;
+}
+.table-responsive-md {
+    display: inline-table;
+}

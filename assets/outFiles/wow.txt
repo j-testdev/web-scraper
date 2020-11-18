@@ -1,0 +1,17 @@
+﻿[1];$ignorado
+﻿[2];La garfa de Garfafilada, 
+﻿[3];$ignorado
+﻿[4];$ignorado
+﻿[5];La hambruna de Alterio, 
+﻿[6];La recompensa por Garrick Piesuaves, 
+﻿[7];140513, 
+﻿[8];Logotipo de Wowhead, 
+﻿[9];Campos de la muerte, 
+﻿[10];Logotipo de Wowhead, 
+﻿[11];Logotipo de Wowhead, 
+﻿[12];La Milicia Popular, 
+﻿[13];La Milicia Popular, 
+﻿[14];La Milicia Popular, 
+﻿[15];Logotipo de Wowhead, 
+﻿[16];Dale de beber a Gerard, 
+﻿[17];Componentes de Uldaman, 

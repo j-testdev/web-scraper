@@ -1,0 +1,130 @@
+ï»¿[1];$ignorado
+ï»¿[2];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="La garfa de Garfafilada" ,`Objectives_loc6`="Ll\u00e9vale la garfa de Garfafilada a Senani Coraz\u00f3n Atronador en el Refugio Brisa de Plata, Vallefresno." ,`Details_loc6`="El poderoso hipogrifo Garfafilada ha sido ejecutado, con la garfa de la bestia derribada como testimonio de tu victoria. Seguro que Senani Corazón Atronador, del Refugio Brisa de Plata, estará interesado en ver este trofeo que prueba tus actos." ,`OfferRewardText_loc6`="¿Has matado a la bestia?$B$BTe debo mucho, amiga mía. Esa bestia ha aterrorizado a mucha gente durante años, pero su muerte tiene un significado especial para mí.$B$BVerás, hace poco mi hermano fue víctima de estas mismas garras... Ahora dormiré bien, sabiendo que se ha vengado su muerte." WHERE `entry`='2'; 
+ï»¿[3];$ignorado
+ï»¿[4];$ignorado
+ï»¿[5];$ignorado
+ï»¿[6];$ignorado
+ï»¿[7];$ignorado
+ï»¿[8];$ignorado
+ï»¿[9];$ignorado
+ï»¿[10];$ignorado
+ï»¿[11];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="Recompensas por los gnolls Zarparr&iacute;o" ,`Objectives_loc6`="Lleva 8 bandas gnoll pintadas al ayudante de alguacil Rainer al Cuartel." ,`Details_loc6`="En las fronteras del Bosque de Elwynn se han avistado gnolls, unas criaturas salvajes que seguramente no están allí por trabajo. Un grupo enorme de ellos, uno más numeroso del que podemos contener solos, ha infestado los bosques que hay al sur de la torre de vigilancia. Otro grupo ha infestado las áreas cercanas al Lago del Hito, al este.$B$BEl ejército de Ventormenta elogiará a quienquiera que le ayude a matarlos. Tráeme sus bandas gnoll pintadas como prueba de tu hazaña." ,`OfferRewardText_loc6`="¡Has estado muy ocupado! Muchas gracias, &lt;nombre&gt;." WHERE `entry`='11'; 
+ï»¿[12];$ignorado
+ï»¿[13];$ignorado
+ï»¿[14];$ignorado
+ï»¿[15];$ignorado
+ï»¿[16];$ignorado
+ï»¿[17];$ignorado
+ï»¿[18];$ignorado
+ï»¿[19];$ignorado
+ï»¿[20];$ignorado
+ï»¿[21];$ignorado
+ï»¿[22];$ignorado
+ï»¿[23];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="La pata de Ursangous" ,`Objectives_loc6`="Ll\u00e9vale la pata de Ursangous al capit\u00e1n Tarkan en el Refugio Brisa de Plata." ,`Details_loc6`="¡El poderoso oso Ursangous ya es historia!$B$BLa pequeña media luna de su pata indica que a esta bestia la entrenaron los elfos de la noche para recorrer el bosque en busca de sus enemigos. Quién sabe cuántos de tus aliados de la Horda han caído ante esta criatura.$B$BDeberías llevarle la pata a Tarkan, en el Refugio Brisa de Plata." ,`OfferRewardText_loc6`="¡La pata de Ursangous!$B$B¿Tienes idea de los problemas que nos ha causado esta bestia a lo largo de los años? Esos días ya han pasado, gracias a ti.$B$BEnviaré este trofeo a Orgrimmar para que lo expongan, junto con tu relato de su muerte.$B$B¡Felicidades!" WHERE `entry`='23'; 
+ï»¿[24];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="La cabeza de Shadumbra" ,`Objectives_loc6`="Ll\u00e9vale la cabeza de Shadumbra al Capit\u00e1n Goggath en la Avanzada Grito Infernal." ,`Details_loc6`="El otrora veloz Shadumbra yace ahora inerte mientras tú reivindicas tu victoria sobre él.$B$BLos elfos de la noche aprecian a esta criatura legendaria. Su cabeza servirá como trofeo intimidatorio y como símbolo del fin de la Alianza en Vallefresno.$B$BEl Capitán Goggath, en la Avanzada Grito Infernal, estará encantado de recibir la cabeza del sable de la noche asesinado." ,`OfferRewardText_loc6`="Shadumbra's Head?$B$BNone can say how many of our Horde brethren have fallen to this beast over the years. Your prowess has ensured that no more shall suffer this fate.$B$BWarchief Hellscream shall hear of your deeds, &lt;class&gt;." WHERE `entry`='24'; 
+ï»¿[25];/* A\u00f1adido en el parche 1.11.1.10958 */ UPDATE locales_quest SET `Title_loc6`="Un jarro de agua fr&iacute;a" ,`Objectives_loc6`="El capit\u00e1n Tarkan, en el Refugio Brisa de Plata, quiere que acabes con Marearess y con 12 elementales de agua podrida en el Lago Mystral. Un(a) misi\u00f3n." ,`ObjectiveText$number_loc6`="$Gtr>Elemental de agua podrida matado$Gtr>Marearess matado$" ,`Details_loc6`="¡Deberías haberlo visto, &lt;clase&gt;!$B$BLos elfos pensaban que Brisa de Plata era inexpugnable. Con sus fuertes defensas y su ejército de elementales de agua, casi tenían razón.$B$BCasi.$B$BUno de nuestros magos pudo invocar un elemental corrupto para sembrar el caos y la ira entre los demás.$B$B¡Ah, la expresión de sus rostros!$B$B&lt;Tarkan se ríe.&gt;$B$BPor desgracia, el mago que lo invocó cayó en combate. Ahora necesito que alguien acabe con nuestra creación." ,`OfferRewardText_loc6`="Bien hecho, &lt;clase&gt;.$B$BUn final apropiado para un asalto ejemplar." WHERE `entry`='25'; 
+ï»¿[26];$ignorado
+ï»¿[27];$ignorado
+ï»¿[28];$ignorado
+ï»¿[29];$ignorado
+ï»¿[30];$ignorado
+ï»¿[31];$ignorado
+ï»¿[32];$ignorado
+ï»¿[33];$ignorado
+ï»¿[34];$ignorado
+ï»¿[35];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="M&aacute;s preocupaciones" ,`Objectives_loc6`="El alguacil Dughan quiere que hables con el guardia Thomas." ,`Details_loc6`="Si te preocupa que los rumores sobre los múrlocs sean ciertos, viaja al puente del este de Elwynn y habla con el guardia Thomas. Esta última semana se encuentra emplazado en el puente y sabrá cuál es el estado de la situación.$B$BTengo un destrero de Ventormenta que te llevará hasta el guardia Thomas. Si quieres utilizar el caballo, dímelo." ,`OfferRewardText_loc6`="Sí, los múrlocs se han asentado a lo largo de los ríos del este de Elwynn. No sabemos por qué están ahí, pero son agresivos y, además, ¡son hasta un poco inteligentes!" WHERE `entry`='35'; 
+ï»¿[36];$ignorado
+ï»¿[37];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="Encuentra a los guardias perdidos" ,`Objectives_loc6`="El guardia Thomas quiere que viajes al norte, r\u00edo arriba, y busques a sus dos guardias, Rolf y Malakai." ,`Details_loc6`="Hace unos días mandé a dos guardias, Rolf y Malakai, a investigar el río. Aún no han regresado. Para completar mi informe necesito saber qué les ocurrió a esos hombres.$B$BViaja al norte a lo largo del río y encuentra a mis guardias... o lo que quede de ellos." ,`OfferRewardText_loc6`="Aunque el cuerpo ha sido saqueado, cerca de él hay un medallón que nadie ha recogido. Tiene una inscripción: "Lacayo Malakai Roca"." WHERE `entry`='37'; 
+ï»¿[38];$ignorado
+ï»¿[39];$ignorado
+ï»¿[40];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="Un peligro con olor a pescado" ,`Objectives_loc6`="Remy \" ,`Details_loc6`="¡Hay una nueva amenaza en el Bosque de Elwynn, &lt;nombre&gt;! ¡Los múrlocs están subiendo por los ríos al este de Elwynn, ahuyentando a los peces y atacando a las buenas gentes de allí!$B$BAvisé al alguacil Dughan, pero le preocupan más los gnolls y los bandidos. No cree que los múrlocs sean una amenaza.$B$B¡Por favor, &lt;nombre&gt;! ¡Habla con Dughan y convéncele de que envíe más tropas al este!" ,`OfferRewardText_loc6`="Sí, hablé con Remy. Lo respeto como mercader, aunque los informes de los múrlocs del este han sido, por decirlo suavemente, demasiado superficiales. $B$BTomo nota de tu preocupación pero, si no recibo un informe militar sobre la amenaza múrloc, no puedo enviar más tropas al este." WHERE `entry`='40'; 
+ï»¿[41];$ignorado
+ï»¿[42];$ignorado
+ï»¿[43];$ignorado
+ï»¿[44];$ignorado
+ï»¿[45];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="Descubre el destino de Rolf" ,`Objectives_loc6`="Busca a Rolf o alguna prueba de su muerte en el poblado m\u00farloc." ,`Details_loc6`="En tu exploración del área encuentras huellas palmeadas que llevan al este por la costa del Lago del Hito. Hacia el este, en la distancia, ainas la silueta de una aldea múrloc.$B$BQuizás Rolf encontró allí su destino..." ,`OfferRewardText_loc6`="Alrededor del cuello del cadáver hay un medallón de metal con una inscripción que reza: "Lacayo Rolf Hartford"." WHERE `entry`='45'; 
+ï»¿[46];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="Recompensas por los m&uacute;rlocs" ,`Objectives_loc6`="Lleva 8 aletas de m\u00farloc rotas al guardia Thomas al puente oriental de Elwynn." ,`Details_loc6`="El ejército de Ventormenta ha puesto precio a la cabeza de los rondadores y batidores múrloc de Elwynn. Mátalos y llévale sus aletas al guardia Thomas. El ejército de Ventormenta te recompensará bien.$B$BLos múrlocs han construido una aldea en el Lago del Hito, al norte de aquí, y otra en el sur, donde se ide el río." ,`OfferRewardText_loc6`="¿Tienes las aletas? ¡Genial! El alguacil Dughan está ansioso por recibir noticias del estado de la situación en Elwynn y me gustaría decirle que empezamos a controlar la situación. $B$BTus acciones han contribuido a que sea posible." WHERE `entry`='46'; 
+ï»¿[47];/* A\u00f1adido en el parche 1.11.1.10958 */ UPDATE locales_quest SET `Title_loc6`="Intercambio de polvo de oro" ,`Objectives_loc6`="Lleva 10 unidades de polvo de oro a Remy \" ,`Details_loc6`="Los kóbolds de esa zona a veces llevan polvo de oro. Me vendría muy bien. Consígueme un montón de polvo de oro y te pagaré el mejor precio de la ciudad, ¡el mejor!$B$BPuedes encontrar kóbolds en la Mina Abisal, al sur, y también alrededor de la Cantera de Jaspe, al noreste." ,`OfferRewardText_loc6`="Gracias por el polvo de oro, &lt;nombre&gt;. Aquí tienes tu dinero y... este detalle de mis socios. Puede que lo encuentres útil... útil." WHERE `entry`='47'; 
+ï»¿[48];$ignorado
+ï»¿[49];$ignorado
+ï»¿[50];$ignorado
+ï»¿[51];$ignorado
+ï»¿[52];/* $warning "npcgroup- */ /* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="Proteger la frontera" ,`Objectives_loc6`="Mata a 8 merodeadores o lobos gris\u00e1ceos del bosque y a 5 osos del bosque j\u00f3venes y vuelve con el guardia Thomas al puente oriental de Elwynn." ,`ObjectiveText$number_loc6`="$Gtr>Merodeador o lobo grisáceo del bosque muerto  left"" ,`ObjectiveText$number_loc6`="$Gtr>Oso del bosque joven matado$" ,`Details_loc6`="Saludos, &lt;nombre&gt;. Los animales salvajes son más agresivos cuanto más nos alejamos de Villadorada. El Aserradero de la Vega del Este sufre constantes ataques de lobos y osos.$B$BNos vendría bien tu ayuda ahí fuera." ,`OfferRewardText_loc6`="Gracias por tu ayuda, &lt;nombre&gt;. Debe de haber algo en el bosque que está agitando a esos animales. $B$BSea lo que sea, espero que no salga de allí." WHERE `entry`='52'; 
+ï»¿[53];$ignorado
+ï»¿[54];/* A\u00f1adido en el parche 1.11.1.25860 */ UPDATE locales_quest SET `Title_loc6`="Informa en Villadorada" ,`Objectives_loc6`="Lleva los documentos del alguacil McBride al alguacil Dughan a Villadorada, en el Bosque de Elwynn." ,`Details_loc6`="&lt;nombre&gt;, eres &lt;un/una:c&gt; &lt;clase&gt; que ciertamente ha demostrado que le preocupa la seguridad de Villanorte. Tu siguiente misión será proteger el Bosque de Elwynn.$B$BSi aceptas, te daré unos papeles para el alguacil Dughan, que está en Villadorada. Para ir a Villadorada, sigue el camino hacia el sur, pasada la frontera." ,`OfferRewardText_loc6`="Dice que te han nombrado ayudante del alguacil de Ventormenta. Enhorabuena.$B$BY buena suerte, el trabajo no será fácil ahora que el ejército parece que anda ocupado con la nobleza.$B$BQué misteriosa es la política en estos tiempos difíciles..." WHERE `entry`='54'; 
+ï»¿[55];$ignorado
+ï»¿[56];$ignorado
+ï»¿[57];$ignorado
+ï»¿[58];$ignorado
+ï»¿[59];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="Armadura de pa&ntilde;o y cuero" ,`Objectives_loc6`="Entrega a Sara Timberlain el marcador de armaduras de Ventormenta." ,`Details_loc6`="Por tu astucia y valor, te entrego un marcador que vale por una pieza de armadura. Quiero que se lo lleves a Sara Timberlain al Aserradero de la Vega del Este. Dale el marcador y ella te forjará una armadura. Y cuando la recibas, &lt;nombre&gt;, úsala para defender Elwynn.$B$BLa Vega del Este está al este de este puesto, al otro lado del puente." ,`OfferRewardText_loc6`="Ah, gracias por el marcador. Por favor, elige la armadura que quieras. $B$BBuena suerte, valiente &lt;clase&gt;. Espero que esta armadura te sirva bien." WHERE `entry`='59'; 
+ï»¿[60];/* A\u00f1adido en el parche 1.11.1.10958 */ UPDATE locales_quest SET `Title_loc6`="Las velas de los k&oacute;bolds" ,`Objectives_loc6`="Lleva 8 velas grandes a William Mortero a Villadorada." ,`Details_loc6`="Hola, &lt;chico/chica&gt;. ¿Tienes un momento?$B$BMi hermano y yo tenemos un herbolario en Ventormenta. Yo estoy aquí para conseguir velas grandes, por la cera, ya me entiendes. ¿Puedes ayudarme?$B$BPuedes conseguir velas grandes de los kóbolds. He oído rumores de que están infestando las minas de Elwynn... La Mina Abisal del sur y la Cantera de Jaspe del este. Puedes empezar la búsqueda en uno de esos lugares." ,`OfferRewardText_loc6`="Estabas ocupado cazando algún kóbold que otro, ¿eh? Gracias por las velas, &lt;nombre&gt;, aquí tienes tu recompensa." WHERE `entry`='60'; 
+ï»¿[61];$ignorado
+ï»¿[62];/* A\u00f1adido en el parche 1.11.1.10958 */ UPDATE locales_quest SET `Title_loc6`="La Mina Abisal" ,`Objectives_loc6`="Explora la Mina Abisal y vuelve junto al alguacil Dughan a Villadorada." ,`Details_loc6`="¡La mina de Villanorte no es la única que tiene problemas! Según mis informes, la Mina Abisal de Elwynn también ha sido ocupada por los kóbolds.$B$BExplora la mina y comprueba la veracidad de mis informes. Luego vuelve aquí. La mina está hacia el sur de Villadorada, entre La Granja Pedregosa y la granja Maclure." ,`OfferRewardText_loc6`="Son malas noticias. ¡¿Qué vendrá luego?! ¡¿Dragones?! Tendremos que reforzar las patrullas de esa mina. Gracias por tu ayuda, &lt;nombre&gt;. Espera un momento... podría tener otra misión para ti." WHERE `entry`='62'; 
+ï»¿[63];$ignorado
+ï»¿[64];$ignorado
+ï»¿[65];$ignorado
+ï»¿[66];$ignorado
+ï»¿[67];$ignorado
+ï»¿[68];$ignorado
+ï»¿[69];$ignorado
+ï»¿[70];$ignorado
+ï»¿[71];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="Informa a Thomas" ,`Objectives_loc6`="Entrega los medallones de Rolf y Malakai al guardia Thomas. Lo encontrar\u00e1s en el puente oriental de Elwynn." ,`Details_loc6`="Ahora que tienes los dos medallones, llévaselos al guardia Thomas al puente. Así sabrá que sus guardias murieron asesinados." ,`OfferRewardText_loc6`="Has confirmado mis temores, &lt;nombre&gt;. Los múrlocs son una amenaza que no podemos ignorar." WHERE `entry`='71'; 
+ï»¿[72];$ignorado
+ï»¿[73];$ignorado
+ï»¿[74];$ignorado
+ï»¿[75];$ignorado
+ï»¿[76];/* A\u00f1adido en el parche 1.11.1.10958 */ UPDATE locales_quest SET `Title_loc6`="La Cantera de Jaspe" ,`Objectives_loc6`="Explora la Cantera de Jaspe y vuelve a informar al alguacil Dughan a Villadorada." ,`Details_loc6`="Gracias a ti, ahora sabemos que la Mina Abisal está infestada de kóbolds. Ahora necesitamos un explorador que investigue la Cantera de Jaspe, que está más lejos.$B$BExplora la Cantera de Jaspe e infórmame si ves algún kóbold. Para llegar a la mina, viaja hacia el este por el camino hasta que llegues a la Torre de Azora. Cuando llegues allí, dirígete hacia el norte. Encontrarás la mina al pie de las colinas." ,`OfferRewardText_loc6`="¿Dices que hay kóbolds en la Cantera de Jaspe? ¡Maldita sea! ¡La situación empeora cada minuto! $B$BGracias por el informe, &lt;nombre&gt;. Aunque habría preferido que trajeras buenas noticias, claro." WHERE `entry`='76'; 
+ï»¿[77];$ignorado
+ï»¿[78];$ignorado
+ï»¿[79];$ignorado
+ï»¿[80];$ignorado
+ï»¿[81];$ignorado
+ï»¿[82];$ignorado
+ï»¿[83];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="Pa&ntilde;uelos de lino rojo" ,`Objectives_loc6`="Lleva 6 pa\u00f1uelos de lino rojo a Sara Timberlain al Aserradero de la Vega del Este." ,`Details_loc6`="Los matones de Elwynn llevan lino, que me vendría bien para confeccionar prendas.$B$BSi me traes pañuelos de lino rojo, los usaré para hacerte algo bonito.$B$BEncontrarás a esos criminales en campamentos repartidos por todo el Bosque de Elwynn." ,`OfferRewardText_loc6`="Ah, qué pañuelos tan estupendos... son un poco ásperos, pero... $B$B¡Ten!" WHERE `entry`='83'; 
+ï»¿[84];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="Vuelve con Billy" ,`Objectives_loc6`="Lleva el pastel de tripa de cerdo a Billy Maclure a Los Vi\u00f1edos de Maclure." ,`Details_loc6`="Aquí tienes. Y cuando le des el pastel a Billy, ¡dile que espero que se atragante con él!" ,`OfferRewardText_loc6`="¡Mm, qué rico! ¡Este pastel es lo mejor que he comido en mi vida! $B$BCreo que me está volviendo la memoria..." WHERE `entry`='84'; 
+ï»¿[85];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="El collar perdido" ,`Objectives_loc6`="Habla con Billy Maclure." ,`Details_loc6`="He perdido mi collar... creo que me lo robó ese granuja de Billy Maclure. Normalmente pasa el día escondido como una rata en Los Viñedos de Maclure, al este de aquí.$B$BRecupera mi collar y darás una alegría al corazón de una anciana viuda." ,`OfferRewardText_loc6`="¿Que has perdido qué? Pues yo no he robado ningún collar, ¡no soy un ladrón! $B$BCreo que sé quién lo hizo, pero...&lt;sonríe&gt;tengo demasiada hambre para que me funcione la memoria." WHERE `entry`='85'; 
+ï»¿[86];/* A\u00f1adido en el parche 1.11.1.10958 */ UPDATE locales_quest SET `Title_loc6`="Un pastel para Billy" ,`Objectives_loc6`="Lleva 4 carnes de jabal\u00ed tiernas a la t\u00eda Bernice Pedregosa a La Granja Pedregosa." ,`Details_loc6`="Si me das un pastel, puede que te diga quién tiene el collar. Bernice, esa anciana de la otra granja, hace unos pasteles de tripa de cerdo increíbles...$B$BSi le llevas algo de carne de jabalí tierna de los jabalíes que rondan por nuestras granjas, y le dices para qué es, seguro que te hace un pastel." ,`OfferRewardText_loc6`="Esta carne de jabalí está desabrida, si la hierves lo suficiente con las especias adecuadas, ¡quedará estupenda!" WHERE `entry`='86'; 
+ï»¿[87];/* A\u00f1adido en el parche 1.11.1.10958 */ UPDATE locales_quest SET `Title_loc6`="Dientes de Oro" ,`Objectives_loc6`="Lleva el collar de Bernice a t\u00eda Bernice Pedregosa a La Granja Pedregosa." ,`Details_loc6`="Estaba jugando cerca de la Mina Abisal y creo que se me cayó... esto... quiero decir, creo que vi el collar de la señora. No me preguntes cómo llegó allí... ¡Yo no fui!$B$BPues eso, que vi a un enorme kóbold con dientes de oro que lo recogía y volvía corriendo a su cubil, encima de la mina. Si encuentras a ese kóbold, encontrarás el collar, ¡lo juro!" ,`OfferRewardText_loc6`="¡Oh, lo has encontrado! ¡Gracias, muchas gracias! $B$BTen, toma esto. Era de mi marido. Siempre dijo que le traía suerte. ¡Es una pena que no lo llevara en su última campaña! *snif*" WHERE `entry`='87'; 
+ï»¿[88];/* A\u00f1adido en el parche 1.11.1.10958 */ UPDATE locales_quest SET `Title_loc6`="&iexcl;Princesa debe morir!" ,`Objectives_loc6`="Mata a Princesa, coge su collera y ll\u00e9vasela a la abuela Pedregosa a La Granja Pedregosa." ,`Details_loc6`="Los Brackwell tienen una cerda que ganaría cualquier concurso. Se llama Princesa. Está ENORME, ¡y es gracias a mí! ¡Porque se alimenta de mis verduras!$B$B¡Princesa debe morir antes de que llegue a nuestros campos! Tráeme su collera como prueba de que está muerta y te daré algo para recompensarte.$B$BPrincesa suele estar justo en medio de nuestro campo de sandías. ¡Ve a por ella!" ,`OfferRewardText_loc6`="Thank goodness! That pig was getting so big she'd have eaten our whole crop! Thank you, &lt;name&gt;.$B$BNow, do any of these suit you?" WHERE `entry`='88'; 
+ï»¿[89];$ignorado
+ï»¿[90];$ignorado
+ï»¿[91];$ignorado
+ï»¿[92];$ignorado
+ï»¿[93];$ignorado
+ï»¿[94];$ignorado
+ï»¿[95];$ignorado
+ï»¿[96];$ignorado
+ï»¿[97];$ignorado
+ï»¿[98];$ignorado
+ï»¿[99];$ignorado
+ï»¿[100];$ignorado
+ï»¿[101];$ignorado
+ï»¿[102];$ignorado
+ï»¿[103];$ignorado
+ï»¿[104];$ignorado
+ï»¿[105];$ignorado
+ï»¿[106];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="J&oacute;venes enamorados" ,`Objectives_loc6`="Entrega a Tommy Joe Pedregosa la carta de amor de Maybell." ,`Details_loc6`="¡Oh, estoy maldita! He entregado mi corazón a Tommy Joe Pedregosa, pero nuestras familias se odian a muerte. Así que no puedo verlo, ¡aunque me duelan los ojos por no poder mirar su hermoso rostro!$B$BTe lo ruego, lleva esta carta a Tommy Joe. Suele estar en el río que está al oeste de La Granja Pedregosa, al oeste de aquí." ,`OfferRewardText_loc6`="Ah! I can't stand us being apart. I have to see her!!" WHERE `entry`='106'; 
+ï»¿[107];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="Una nota para William" ,`Objectives_loc6`="Lleva la nota de la abuela Pedregosa a William Mortero." ,`Details_loc6`="¡Seguro que William Mortero tiene una poción que reúna a los dos jóvenes amantes!$B$BTen, llévale esta nota a William. Está en la Posada Orgullo de León, en Villadorada." ,`OfferRewardText_loc6`="Cómo compadezco a esas pobres almas... Maybell y Tommy Joe. También yo fui joven y también conocí el amor... una vez. $B$B¡Debe de haber algo que pueda hacer para ayudarles! Deja que piense..." WHERE `entry`='107'; 
+ï»¿[108];$ignorado
+ï»¿[109];$ignorado
+ï»¿[110];$ignorado
+ï»¿[111];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="Habla con la abuelita" ,`Objectives_loc6`="Habla con la abuela Pedregosa." ,`Details_loc6`="Por favor, &lt;nombre&gt;, habla con mi abuelita. Si alguien puede encontrar la forma de reunirme con Maybell, esa es ella.$B$BEstá en nuestra casa, al este de aquí." ,`OfferRewardText_loc6`="While our families are feuding, Tommy Joe and Maybell don't have much of a future, but... maybe we can get them together for just a little while.$B$BHm, what can we do..." WHERE `entry`='111'; 
+ï»¿[112];/* A\u00f1adido en el parche 1.11.1.10958 */ UPDATE locales_quest SET `Title_loc6`="La recolecci&oacute;n de algas" ,`Objectives_loc6`="Lleva 4 hojas de alga de cristal a William Mortero a Villadorada." ,`Details_loc6`="Puedo hacer un licor de invisibilidad para Maybell, para que pueda salir de Los Viñedos de Maclure y reunirse con Tommy Joe. Pero para hacer el licor necesito alga de cristal.$B$BAunque el alga normalmente crece en el océano, también se puede conseguir de los múrlocs. Ve a ver si los múrlocs que hay cerca del Lago de Cristal tienen algo. El Lago de Cristal está al este de Villadorada." ,`OfferRewardText_loc6`="Lo tienes. ¡Muy bien! Dame solo un momento para preparar la poción." WHERE `entry`='112'; 
+ï»¿[113];$ignorado
+ï»¿[114];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="La fuga" ,`Objectives_loc6`="Lleva el licor de invisibilidad a Maybell Maclure." ,`Details_loc6`="Lleva este licor de invisibilidad a la joven Maybell. Debería durar lo suficiente para que haga una visita a Tommy Joe." ,`OfferRewardText_loc6`="¡Ay! Me siento muy culpable por engañar a mi familia, pero no puedo ignorar lo que siento por Tommy Joe. $B$BGracias, &lt;nombre&gt;. Beberé este licor en cuanto tenga la oportunidad de escaparme para ir a ver a mi amado. $B$BPor favor, acepta esto." WHERE `entry`='114'; 
+ï»¿[115];$ignorado
+ï»¿[116];$ignorado
+ï»¿[117];$ignorado
+ï»¿[118];$ignorado
+ï»¿[119];$ignorado
+ï»¿[120];$ignorado
+ï»¿[121];$ignorado
+ï»¿[122];$ignorado
+ï»¿[123];/* A\u00f1adido en el parche 1.11.1.10772 */ UPDATE locales_quest SET `Title_loc6`="El Coleccionista" ,`Objectives_loc6`="Ve a ver al alguacil McCree en el Aserradero de la Vega del Este y dale la lista del Coleccionista." ,`Details_loc6`="Esta nota es un horario de los días y las horas a las que una persona ?descrita como "el Coleccionista"? recibirá cargamentos de oro provenientes de las minas del Bosque de Elwynn.$B$BPor lo que pone en el horario, parece que el Coleccionista vive cerca de la Plantación de Calabazas de Brackwell, al este de Elwynn.$B$BParece importante. Deberías informar al alguacil McCree en el Aserradero de la Vega del Este." ,`OfferRewardText_loc6`="Mm... He oído hablar de ese Coleccionista, pero no sé para quién trabaja. Gracias por la información. Nos ayudará a resolver este misterio." WHERE `entry`='123'; 
+ï»¿[124];$ignorado
+ï»¿[125];$ignorado
+ï»¿[126];$ignorado
+ï»¿[127];$ignorado
+ï»¿[128];$ignorado
+ï»¿[129];$ignorado
+ï»¿[130];$ignorado
